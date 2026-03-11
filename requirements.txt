@@ -1,22 +1,8 @@
-python-dotenv
-openai==0.28.0
 python-telegram-bot>=20.0
+requests
+python-dotenv
+qrcode[pil]
 Pillow
 pdf2image
-qrcode[pil]
 pypdf
-python-barcode
-yt-dlp>=2023.12.30
-curl_cffi>=0.5.10
-requests
-speechrecognition
-pyaudio   # voice input কাজ করার জন্য (Termux/Linux/Mac এ দরকার)
-python-telegram-bot>=20.0
-requests
-python-dotenv
-speechrecognition
-pillow
-pdf2image
-pypdf
-qrcode[pil]
-pyaudio
+SpeechRecognition
