@@ -8,3 +8,4 @@ pypdf
 python-barcode
 yt-dlp>=2023.12.30
 curl_cffi>=0.5.10
+requests
