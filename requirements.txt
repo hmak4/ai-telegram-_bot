@@ -6,3 +6,4 @@ Pillow
 pdf2image
 pypdf
 SpeechRecognition
+openai==0.28.0
