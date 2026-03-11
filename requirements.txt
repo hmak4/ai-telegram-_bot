@@ -1,9 +1,1 @@
-python-telegram-bot>=20.0
-requests
-python-dotenv
-qrcode[pil]
-Pillow
-pdf2image
-pypdf
-SpeechRecognition
-openai==0.28.0
+
